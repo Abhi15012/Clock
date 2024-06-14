@@ -1,0 +1,40 @@
+.one{
+ border: 5px solid rgb(16, 2, 76);
+ margin-top: 130px;
+background-color: rgba(235, 201, 246, 0.543);
+height: 50vh;
+border-radius: 20px;
+}
+:root{
+  background-color:  rgb(255, 127, 255);
+}
+
+.clock-container{
+
+  margin-top: 40px;
+}
+h1{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+background-color: azure;
+
+border-radius: 10px;
+width: 300px;
+
+}
+
+h2{
+  margin-top: 50px;
+
+padding-top: 15px;
+padding-bottom: 30px;
+  font-family:monospace
+
+}
+
+h3{
+border-radius: 30px;
+  background-color: rgb(255, 255, 127);
+  font-family: fantasy;
+}
+
+
